@@ -34,6 +34,8 @@ A detailed getting started guide can be found at [umami.is/docs](https://umami.i
  <a href="https://heroku.com/deploy?template=https://github.com/femij/umami" alt="Deploy to Heroku">
      <img width="150" alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
+
+---
 ## 🛠 Installing from Source
 
 ### Requirements
